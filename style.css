@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+display: flex;
+background-color:beige;
+justify-content: space-between;
+align-items: center;
+text-decoration: none;
+}
+#left-container{
+display: flex;
+gap: 30px;
+align-items: center;
+}
+ nav a:first-of-type{
+    color: rgb(74, 84, 81);
+    text-decoration: none;
+}
+#right_container{
+    display: flex;
+     align-items: center;
+     gap:30px ;}
+
+#img-right-con{
+border-radius: 100%;
+height: 40PX;
+}
+
+#main-section{
+margin: 25,10,30,0;
+border: solid black;
+border-radius: 5px;
+}
+.first-content{
+
+    display: flex;
+    gap: 50px;
+}
+.card-course{
+display: flex;
+justify-content: space-between;
+align-items: flex-end;
+padding: 20px;
+margin: 5px;
+}
+.first-content>img{
+
+width: 100px;
+height: PX;
+}
+
+
