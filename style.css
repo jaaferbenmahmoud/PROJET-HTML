@@ -30,9 +30,10 @@ height: 40PX;
 }
 
 #main-section{
-margin: 25,10,30,0;
-border: solid black;
+    
+border: solid rgb(191, 55, 55);
 border-radius: 5px;
+width: 100%;height: 20%;
 }
 .first-content{
 
@@ -51,5 +52,21 @@ margin: 5px;
 width: 100px;
 height: PX;
 }
+#about{
+border:solid black;
+width:80rem ;
+
+}
+.first-content{
+
+border: solid black ;
+width:80rem ;
+
+}
+.fa-user-circle{
+margin-left: 50REM;
+
+}
+
 
 
